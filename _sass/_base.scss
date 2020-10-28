@@ -3,9 +3,28 @@ html{
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "Sen", sans-serif;
 }
 
 .badge {
   font-weight: 500;
+  color: $primary;
+  border-color: $primary !important;
+}
+
+/* Hyperlink color */
+a {
+  color: $primary;
+}
+
+/* Button colors */
+.btn-outline-primary {
+  color: $primary;
+  border-color: $primary;
+
+  &:hover {
+  border-color: $primary;
+  background-color: $primary;
+  }
+
 }

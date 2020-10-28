@@ -1,0 +1,9 @@
+<div class="card-columns m-3 mt-5">
+
+  {% for post in site.posts %}
+    {% if post.category == page.category %}
+      {% include blog/post-card.html %}
+    {% endif %}
+  {% endfor %}
+  
+</div>

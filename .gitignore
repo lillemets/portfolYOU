@@ -1,6 +1,2 @@
-# Ruby Gems
-*.gem
-
-# Design Files
-*.psd
-*.ai
+.gitignore
+_site

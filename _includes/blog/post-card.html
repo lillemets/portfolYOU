@@ -1,7 +1,10 @@
 {%- comment -%} Default Styles {%- endcomment -%}
 {%- assign card_style  = '' -%}
 {%- assign text_style  = 'text-dark' -%}
-{%- assign badge_style = 'badge-dark' -%}
+{%- assign badge_style = 'badge border ml-1' %}
+{%- assign post_id    = post.name | slugify -%}
+{%- assign post_img   = post.image -%}
+{%- assign post_name  = post.name -%}
 
 {%- comment -%} Update Styles {%- endcomment -%}
 {%- if post.style == 'fill' -%}
@@ -25,8 +28,11 @@
   {%- assign post_url = post.url | relative_url -%}
 {%- endif -%}
     
-<div class="col-lg-6 my-3 wow animated fadeIn" data-wow-delay=".15s">
+<div class="wow animated fadeIn" data-wow-delay=".15s">
   <a href="{{ post_url }}" class="post card {{ card_style }}">
+      {%- if post_img -%}
+      <img id="{{ post_id }}-img" class="card-img-top" src="{{ post_img }}" alt="{{ post_name }}" />
+      {%- endif -%}
     <div class="card-body {{ text_style }}">
       <h3 class="card-title">{{ post.title }}</h3>
       <p class="card-text">

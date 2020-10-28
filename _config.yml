@@ -1,0 +1,59 @@
+# Site settings
+title               : lillemets.ee
+description         : I'm not sure why but somehow you've ended up on this random personal website. This is where I post some of my thoughts, stories of my doings and goings and showcase things I create. Well, not yet but sometime in the future I will.
+baseurl             : ""
+repository          : lillemets/lillemets.github.io
+
+# Navbar settings
+nav_exclude:
+  - pages/404.html
+  - pages/index.md
+
+# Author info
+author:
+  name              : Jüri Lillemets
+  image             : 
+  email             : lillemetsj@gmail.com
+  flickr            : lillemets
+  github            : lillemets
+  reddit            : u/lillemets
+  #spotify           : 11102477011
+  stackoverflow     : 6219179
+  youtube           : channel/UCsLVNaxFrzamzUYXgkJbEkA
+
+# Posts
+permalink: /:title
+
+# Collections
+collections:
+  projects:
+    output: true
+
+# Disqus
+disqus: lillemets
+
+# Analytics
+analytics:
+  enabled: false
+  google:
+    tracking_id: 
+
+# Defaults for collections
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
+
+# Exclude from processing
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

@@ -1,7 +1,31 @@
+/*
 .search-box {
   box-shadow: none !important;
 }
+*/
 
+.post.card {
+  border-radius: $rounded-borders;
+  text-decoration: none !important;
+  margin: 10px auto;
+
+  .card-img-top {
+    border-radius: $rounded-borders $rounded-borders 0 0;
+    margin: 0px;
+  }
+  .card-footer {
+    border-radius: 0 0 $rounded-borders $rounded-borders;
+    font-size: 14px;
+  }
+
+  transition: transform 400ms;
+
+  &:hover {
+    transform: translateY(-10px);
+    box-shadow: -2px 8px 20px -12px rgba(0, 0, 0, 0.4);
+  }
+}
+/*
 .post.card {
   border-radius: $rounded-borders;
   text-decoration: none !important;
@@ -14,8 +38,11 @@
     padding: 15px 35px;
   }
 }
+*/
 
 .post {
+  max-width: 720px;
+
   .post-metadata {
     font-size: 14px;
     margin-top: -6px;
@@ -50,6 +77,7 @@
     max-width: 100%;
     height: auto;
     margin: 1rem auto;
+    border-radius: $rounded-borders;
   }
 
   .video {
@@ -67,6 +95,7 @@
   a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline) {
     display: inline-block;
     text-decoration: none;
+    color: $primary;
 
     &:hover {
       color: $primary;
@@ -87,12 +116,16 @@
     }
   }
 
+  ol {
+    padding: 0px;
+  }
+
   pre {
     background: $light;
     border: 1px solid #ddd;
     color: $dark;
     font-family: monospace;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 20px;
     margin-bottom: 1.6em;
     max-width: 100%;
@@ -101,14 +134,16 @@
     page-break-inside: avoid;
     overflow: auto;
     word-wrap: break-word;
+    border-radius: $rounded-borders;
   }
 
   code.highlighter-rouge {
     background-color: $light;
+    border: 1px solid #ddd;
     color: $dark;
-    border-radius: 3px;
+    border-radius: $rounded-borders;
     margin: 0;
-    padding: 0.2em 0.65em;
+    padding: 0.1em 0.4em;
   }
 
   blockquote {
@@ -142,3 +177,8 @@
     }
   }
 }
+
+.rounded {
+  border-radius: $rounded-borders !important;
+}
+
