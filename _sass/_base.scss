@@ -6,15 +6,25 @@ body {
   font-family: "Sen", sans-serif;
 }
 
-.badge {
-  font-weight: 500;
-  color: $primary;
-  border-color: $primary !important;
+
+h3 {
+  font-size: 1.4rem;
+}
+
+h4 {
+  font-size: 1.2rem;
 }
 
 /* Hyperlink color */
 a {
   color: $primary;
+}
+
+/* Badge */
+.badge {
+  font-weight: 500;
+  color: $primary;
+  border-color: $primary !important;
 }
 
 /* Button colors */

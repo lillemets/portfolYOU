@@ -1,0 +1,14 @@
+<div style="column-count: 2">
+  <ul>
+    {% for item in site.data.skills %}
+      <li>
+        {{ item.method }} 
+        {% if item.tools %} 
+          {% for tool in item.tools %}
+            <span class="badge border ml-1"> {{ tool }} </span>
+          {% endfor %}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>

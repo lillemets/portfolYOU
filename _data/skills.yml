@@ -1,0 +1,47 @@
+- method: Parametric Hypothesis Testing 
+  tools: [stats::shapiro.test,stats::t.test,stats::aov,stats::TukeyHSD]
+- method: Non-parametric Hypothesis Testing 
+  tools: [stats::wilcox.test,stats::kruskal.test,stats::ks.test,stats::fischer.test,stats::chisq.test]
+- method: Ordinary linear regression
+  tools: [stats::lm]
+- method: Generalized linear regression
+  tools: [stats::glm]
+- method: Ordered logistic regression
+  tools: [ordinal::clm,MASS::polr]
+- method: Panel data regression
+  tools: [plm::plm,lme4::lmer]
+#- method: Regresson diagnostics
+#  tools: [lmtest::bgtest,lmtest::coeftest,aod::wald.test,ordinal::nominal_test,ordinal::scale_test]
+- method: Structural Equation Modelling
+  tools: lavaan::sem
+- method: Random Forest
+  tools: randomForest
+- method: Model training
+  tools:  caret
+- method: Multiple Imputation by Chained Equations
+  tools:  MICE
+- method: Propensity Score Matching
+  tools: [Matching,MatchIt]
+- method: Differences in differences
+- method: Spatial autocorrelation
+  tools: [spdep::moran.test,spdep::localmoarn]
+- method: Point pattern analysis
+  tools: spatstat::ppm
+- method: Clustering
+  tools: [stats::hclust,stats::kmeans]
+- method: Factor Analysis
+  tools: [stats::factanal,psych::fa]
+- method: Principal Component Analysis
+  tools: [stats::prcomp,stats::princomp,psych::principal]
+- method: Text mining procedures
+  tools: [quanteda,tidytext,tm]
+- method: Sentiment analysis
+  tools: [quanteda]
+- method: Text modelling
+  tools: [quanteda.textmodels,topicmodels::LDA]
+- method: Satistical plotting
+  tools: [igraph,ggraph,dendextend,corrplot,semPlot]
+- method: Interactive plots
+  tools: [plotly,heatmaply,networkD3]
+- method: Spatial data manipulation and plotting
+  tools: [sf,raster,maptools]
