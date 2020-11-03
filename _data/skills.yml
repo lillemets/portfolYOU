@@ -38,7 +38,7 @@
 - method: Sentiment analysis
   tools: [quanteda]
 - method: Text modelling
-  tools: [quanteda.textmodels,topicmodels::LDA]
+  tools: [quanteda.textmodels,"topicmodels::LDA"]
 - method: Satistical plotting
   tools: [igraph,ggraph,dendextend,corrplot,semPlot]
 - method: Interactive plots
