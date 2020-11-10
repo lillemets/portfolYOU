@@ -40,7 +40,7 @@
 - method: Text modelling
   tools: [quanteda.textmodels,"topicmodels::LDA"]
 - method: Satistical plotting
-  tools: [igraph,ggraph,dendextend,corrplot,semPlot]
+  tools: [igraph,ggraph,dendextend,corrplot,pheatmap,semPlot]
 - method: Interactive plots
   tools: [plotly,heatmaply,networkD3]
 - method: Spatial data manipulation and plotting
