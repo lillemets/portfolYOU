@@ -7,26 +7,29 @@ weight: 5
 
 ## Who am I?
 
-Name is Jüri, pronounced as *Jyri*. I'm not sure what to tell here, so below are some random facts.
+I'm not sure what to tell here, so below are some random facts.
 
 - I own a dozen photo cameras, along with a couple of dozen lenses. 
 - I type using [Colemak](https://colemak.com/) layout on a 61-key keyboard with blank keycaps.
 - I sort all my waste into 7 different bins.
+- I don't believe in anything supernatural but I do believe in coincidence.
 - I use [Arch](https://www.archlinux.org/) btw. 
 
 ## What do I do?
 
 Here is another list of some of the things that I do or have done in my spare time. 
 
-- Playing guitar and ukulele
 - [Taking photographs](https://www.flickr.com/photos/lillemets), mostly landscapes
 - Developing photographic film and prints
 - Woodworking (with power tools)
-- Renovating
+- Renovation
 - Wandering and overnighting in the wild
-- [Unix desktop customization](https://www.reddit.com/r/unixporn)
+- Unix desktop customization ([what?](https://www.reddit.com/r/unixporn))
 - Assemblying personal computers
 - Fountain pens and calligraphy
+- Playing guitar and ukulele
+- Learning about the past
+- Collecting old coins
 
 ## Which tools I use?
 
