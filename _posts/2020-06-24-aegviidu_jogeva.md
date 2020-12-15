@@ -1,149 +1,145 @@
 ---
 title: "Aegviidust Jõgevale"
-description: "Jalutasin päikese käes viie päevaga 150 km mööda RMK matkateed. Teele jäid Kõrvemaa rabad, Kesk-Eesti põllumaad ja Endla looduskaitseala metsad."
+description: "Jalutasin 150 km mööda matkateed, läbides Kõrvemaa rabad, Kesk-Eesti põllumaad ja Endla looduskaitseala metsad."
 tags: [Peraküla-Ähijärve matkatee]
 category: hikes
 image: /img/hikes/202006231414_DSCF2479.jpg
 ---
 
-Otsustasin 2020. aasta juunis läbida järjekordse lõigu Peraküla-Ähijärve matkateel. Sel korral kulges tee Aegviidust Jõgevale, ühest rongipeatusest teiseni. Tee pikkuseks oli kaardi järgi 150 km, mõni kilomeeter siia-sinna. Tundus, et suvi on selle lõigu korraga läbimiseks sobiv aeg, kuna saab hakkama kergema soojustusega ja kuivem on ka kui muul ajal.
+Otsustan läbida järjekordse lõigu Peraküla-Ähijärve matkateel. Sel korral kulgeb tee Aegviidust Jõgevale, ühest rongipeatusest teiseni. Tee pikkuseks on kaardi järgi 150 km, mõni kilomeeter siia-sinna. Tundub, et suvi on selle lõigu korraga läbimiseks sobiv aeg, sest saab hakkama kergema soojustusega ja kuivem peaks olema ka kui muul ajal.
 
-Teekonda sel korral ei salvestanud, aga ei mäleta, et oleksin ametlikult rajalt kuigi palju kõrvale kaldunud. All oleval kaardil on seega üsna täpne teekond. Matka algus ja lõpp on tähistatud punktidega.
+Teekonda ma sel korral ei salvesta, aga jään ametliku raja piiresse. All oleval kaardil kujutatud ametlik rada näitab seega üsna täpselt läbitud teekonda. Matka algus ja lõpp on tähistatud kaardil punktidega.
 
 <a href="img/hikes/aegviidu-jogeva.jpg" target="_blank"><img src="img/hikes/aegviidu-jogeva.jpg"/></a>
 
-Enda arvates sai kaasa pakitud ainult vajalik. Kotti kaalule tõstes selgus siiski, et seljas tuleb tassida 21 kg kotti ja lisaks veel õlakotti. Selles viimases kandsin kaamerat, telefoni, veepuhastit ja muud, mida tahtsin vajadusel mugavalt ilma seljakotti sikutamata kätte saada. Olin valmistunud vihmaks ja külmaks. Kuna kumbagi ei tulnud, siis üsna mitu suurt ja rasket asja osutusid tarbetuks.
+Enda arvates pakin kaasa ainult vajaliku. Kotti kaalule tõstes selgub aga, et seljas tuleb tassida 21 kg kotti, mis on minu arvates umbes kolmandiku võrra raskem kui suvise matka puhul olla võiks. Lisaks veel õlakott, milles kannan kaamerat, telefoni, veepuhastit ja muud, mida tahan vajadusel mugavalt ilma seljakotti sikutamata kätte saada. Olen valmistunud vihmaks ja külmaks. Kuna hiljem selgub, et valmist tulnuks olla hoopis vastupidiseks, siis üsna mitu suurt ja rasket asja osutuvad tarbetuks.
 
 ![](img/hikes/202006191804_DSCF2285.jpg)
 
 ## Esimene päev, 20. juuni
 
-Päev algas äratusega kell pool kuus ja hommikuse rongisõiduga Tartust Aegviitu, matk algas aga alles Aegviidust. Alustasime seda teed kahekesi. Sealt lõunasse kulgev matkatee osa oli jalutamiseks väga mõnus. Ümberringi oli mets ja rada metsas oli sisse sõidetud, ent mitte päris selline liivane ja kruusane tee. Rongisõidu ajal oli korralikult sadanud, kuid nüüd õnneks ainult kohati tibutas. Küll aga oli õhk niiske ja sääskedest nii paks, et liikumine oli mugavam kui paigal seismine.
+Päev algab äratusega kell pool kuus ja hommikuse rongisõiduga Tartust Aegviitu, matk algab aga alles Aegviidust. Alustame seda teed kahekesi. Aegviidust lõunasse kulgev matkatee osa on jalutamiseks väga mõnus. Ümberringi on mets ja rada metsas on sisse sõidetud, ent mitte päris selline liivane ja kruusane tee. Rongisõidu ajal sadas korralikult, kuid nüüd õnneks ainult kohati tibutab. Küll aga on õhk niiske ja sääskedest nii paks, et ka raske seljakotiga on liikuda mugavam kui paigal seista.
 
 ![](img/hikes/202006201120_DSCF2306.jpg)
 
-Esimese peatuse tegime Mägede järve ääres, kus oli väike haagissuvilatest ja suvitajatest ümbritsetud järv. Sai korra maha istutud, vees jalgu jahutatud ja veevarusid täiendatud. Sealt viis tee paari kilomeetri kaugusele Valgehobusemäe suusa- ja puhkekeskuse alale. Natuke kummaline oli selline palliväljaku, laste mänguväljaku, suusamäe ja muude atraktsioonidega koht seal sügaval metsa sees. 
+Esimese peatuse teeme Mägede järve ääres, kus on väike haagissuvilatest ja suvitajatest ümbritsetud järv. Istume korra maha, jahutan vees jalgu ja täiendan veevarusid. Sealt järve äärest viib tee paari kilomeetri kaugusele Valgehobusemäe suusa- ja puhkekeskuse alale. Natuke kummaline on selline palliväljaku, laste mänguväljaku, suusamäe ja muude atraktsioonidega koht seal sügaval metsa sees. Eriti seetõttu, et suvisel laupäeval ei paista peale meie siin kusagil mitte kedagi olevat.
 
-Matkatee üleminek oli vähemalt sama kummaline. See jätkus puhkekeskuse tiigi tagant, kus seni mööda sõiduteed kulgenud tee jätkus ühtäkki mööda pisikest rada tihedas võsas. Isegi aasta kõige kuivemal ajal oli sealne metsaalune nii vesine ja mudaseks tallatud, et tuli hüpata mööda puujuuri ja mättaid. Alguses tundus tee täiesti läbimatu, aga sellist rada oli vist ainult kahes kohas paarisajameetriste lõikudena ja kohati oli ikka kuiv ka. Seal tihnikus olev purre oli nii kidur, et enam vist sellest üle ei läheks.
+Matkatee üleminek on vähemalt sama kummaline. See jätkub puhkekeskuse tiigi tagant, kus seni mööda sõiduteed kulgenud tee läheb ühtäkki edasi mööda pisikest rada tihedas võsas. Isegi aasta kõige kuivemal ajal on sealne metsaalune nii vesine ja mudaseks tallatud, et tuleb hüpata mööda puujuuri ja mättaid. Alguses tundub tee täiesti läbimatu, aga edasi minnes selgub, et sellist mudast rada on ainult paaris kohas ja kohati on ikka päris kuiv ka. Seal tihnikus olev purre on nii kidur, et oleks mul natuke raskem seljakott , oleks see vist küll pooleks murdunud.
 
 ![](img/hikes/202006201151_DSCF2309.jpg)
 
-Kavas oli teha lõunasöök RMK Kalajärve lõkkekohas, aga loomulikult oli see (nagu ka kõik järgnevad lõkkekohad Kõrvemaal) juba suvitajate poolt hõivatud. See kant oli jälle paras mülgas. Ainult  üksikutel lõikudel olemas ka laudtee. Jalutasime edasi Väikese Kalajärve äärde ja leidsime seal laudtee ääres kuivema koha, kus sai järve ääres langenud puul istuda ja lõunat keeta.
+Kavas on teha lõunasöök Kalajärve lõkkekohas, aga sinna jõudes on see loomulikult (nagu ka kõik järgnevad lõkkekohad Kõrvemaal) juba suvitajate poolt hõivatud. See kant selle järve ümbruses on jälle paras mülgas, mida kuiva jalaga või vähemalt kuiva jalanõuga läbida ei saa. Ainult  üksikutel lõikudel olemas ka laudtee. Jalutame puhkekoha otsingul edasi Väikese Kalajärve äärde ja leiame seal kohe laudtee ääres üksiku kuivema koha, kus saab järve ääres langenud puul istuda ja lõunat keeta.
 
 ![](img/hikes/202006201235_DSCF2325.jpg)
 
-Edasi viis tee läbi Kakerdaja raba. Raba nagu raba ikka, järv keskel. Paadisillaga (sobiva eestikeelse sõna puudumisel) koht sobinuks hästi ujumiseks, kui pidev rahvavoog mööda ei oleks käinud. Just sel hetkel kui üks meist ennast siiski poolpaljaks võttis, saabus suurem seltskond, mis jäi sinna kohe pikemaks ajaks. Siin rabas möödusid meist ka hommikul meiega rogis sõitnud ja vist Tallinnast teed alustanud jalgratturid. Lohutasin ennast sellega, et eks kõndimisel on ka omad võlud.
+Edasi viib tee läbi Kakerdaja raba. Raba nagu raba ikka, järv keskel. Paadisillaga (sobiva eestikeelse sõna puudumisel) koht sobiks hästi ujumiseks, kui pidev rahvavoog mööda ei käiks. Just sel hetkel kui üks meist ennast siiski poolpaljaks võtab, saabub suurem seltskond, mis jääb sinna kohe pikemaks ajaks. Siin rabas mööduvad meist ka hommikul meiega rogis sõitnud ja vist Tallinnast teed alustanud jalgratturid. Lohutan ennast sellega, et eks kõndimisel on ka omad võlud. Eriti siin rabas laudteel.
 
 ![](img/hikes/202006201435_DSCF2346.jpg)
 
-Ööbimiskohani oli veel kümmekond kilomeetrit kõndida. See tee kulges metsa vahel ja katkes korraks RMK Napu lõkkekoha juures asuva Jägala jõega, et pärast seda samamoodi metsa vahel jätkuda. Olime kõmpimisest üsna tüdinenud juba ja otsisime ööbimiskohta paremal pool teed. Vahetult enne seda, kui meie matkatee pöördus kõrvale Oandu-Ikla matkateelt, oli lühike lõik teed, mille põhjaküljel ei olnud korraks Kõrvemaa maastikukaitseala. Seega oli see koht seaduslik ööbimiseks ja sobiv ka seetõttu, et jäi teekonna 30. kilomeetrile. Selline see päeva läbitud vahemaa tuligi. 
+Ööbimiskohani on veel kümmekond kilomeetrit kõndida. Edasine tee kulgeb metsa vahel ja katkeb korraks Napu lõkkekoha juures asuva Jägala jõega, et pärast seda samamoodi metsa vahel jätkuda. Oleme juba kõmpimisest üsna tüdinenud ja otsime ööbimiskohta paremal pool teed. Vahetult enne seda, kui meie matkatee pöördub kõrvale Oandu-Ikla matkateelt, peaks olema lühike lõik teed, mille põhjaküljel ei ole korraks Kõrvemaa maastikukaitseala. Seega on see koht seaduslik ööbimiseks ja sobiv ka seetõttu, et jääb teekonna 30. kilomeetrile. Selline see päeva jooksul läbitud vahemaa tulebki.
 
 ![](img/hikes/202006201842_DSCF2371.jpg)
 
-See öö oli pigem unetu. Alguses oli palav ja päeva jooksul kogutud sääsehammustused hakkasid tunda andma. Siis läks aga oodatust jahedamaks ning suvisest magamiskotist jäi väheks, nii et rippvoodis ööbinud kaaslasel tuli ka maha kolida. Ilmselt oli jaheduse põhjus selles kandis ka liigniiske maastik ja sellest tingitud õhuniiskus. Edaspidi tean, et isegi suvel tasub kaasa võtta magamiskott, mille mugavustemperatuur on alla 10°C.
+Esimene öö on pigem unetu. Alguses on palav ja päeva jooksul saadud  sääsehammustustest naha alla kogunenud mürk hakkab tunda andma. Siis läheb aga oodatust tunduvalt jahedamaks ning suvisest magamiskotist jääb väheks, nii et rippvoodis ööbinud kaaslane peab ka maha kolima. Ilmselt on jaheduse põhjus selles kandis ka liigniiske maastik ja sellest tingitud õhuniiskus. Edaspidi tean, et isegi kõige soojemal ajal tasub metsa võtta kaasa magamiskott, mille mugavustemperatuur on alla 10°C.
 
 ## Teine päev, 21. juuni
 
-Järgmine päev algas juba täiesti suviselt. Etteruttavalt võib öelda, et vihma ma sellel matkal enam ei näinudki ja pilvi vilksatas ka ainult paaril korral. Kohati lagendikul, aga üldiselt okaspuude vahel kulges pinnastee järgmised umbes 10 km peaaegu otse lõunasse. Ilus maastik koos linnulaulu ja suvelõhnadega, aga midagi märkimisväärselt sellele lõigule ei jäänud. Lõppes see Vahesaare järvega, mis oli igati sobiv koht riiete tuulutamiseks ja enda vees värskendamiseks. Pärast pikka higistamist kulus see suplus küll ära.
+Järgmine päev algab juba täiesti suviselt. Vihma ma sellel matkal tegelikult enam ei näegi ja pilvi vilksatab ka ainult paaril korral. Kohati lagendikul, aga üldiselt okaspuude vahel kulgeb pinnastee järgmised umbes 10 km peaaegu otse lõunasse. Ilus maastik koos linnulaulu ja suvelõhnadega, aga midagi märkimisväärselt sellele lõigule ei jää. Lõppeb see tee Vahesaare järvega, mis on igati sobiv koht riiete tuulutamiseks ja enda vees värskendamiseks. Pärast pikka higistamist kulub see suplus küll ära.
 
 ![](img/hikes/202006211114_DSCF2387.jpg)
 
-Sealt läks tee rappa, sel korral esmalt Seli ja siis Laeksaare rappa. Kuigi kahtlus oli, et nii nagu ka eile, täna kuiva jalaga ei pääse, oli laudtee oli igal pool ja väga korralik. Ja nagu hiljem selgus, siis niimoodi Järva-Madiseni välja. Raba keskel olevale Seli järvele mäletamist mööda ligi ei pääsenudki. Rabatee lõppes oosiga, mille seljandikul kulges kitsas rada edasi nii, et mõlemal pool oli kallak. Huvitav koht. Seejärel üle pea ulatuvast rohust ümbritsetud Kollassaare, mille kohta ma veel midagi ei teadnud. Ei saanudki siis aru, kas keegi elab seal või kuidas konkreetselt keset tühja raba selline korrastatud talukoht on. Tasub lugeda seal ümbruses olevaid infotahvleid, tekib mingi ettekujutus sellest, kui kummaline elu sellises eraldatud kohas kunagi olla võis. 
+Sealt läheb tee rappa, sel korral esmalt Seli ja siis Laeksaare rappa. Kuigi kahtlus on, et nii nagu ka eile, täna kuiva jalaga ei pääse, on laudtee oli igal pool ja väga korralik. Ja nagu hiljem selgub, siis niimoodi Järva-Madiseni välja. Raba keskel olevale Seli järvele ligi ei pääsegi. Rabatee lõppeb  oosiga, mille seljandikul kulgeb kitsas rada edasi nii, et mõlemal pool on kallak. Huvitav koht. Seejärel üle pea ulatuvast rohust ümbritsetud Kollassaare, millest ma veel midagi kuulnud ei ole. Ei saagi seetõttu aru, kas keegi elab siin või kuidas konkreetselt keset tühja raba selline korrastatud talukoht on. Tasub lugeda seal ümbruses olevaid infotahvleid, siis tekib mingi ettekujutus sellest, kui kummaline elu sellises eraldatud kohas kunagi olla võis. 
 
-Järgmine juba ammu asustatud kõrgem koht oli Simisalu, kus käisime muidugi tornis ja tegime lõunaeine. Natuke igav kruusane metsatee viis paari kilomeetri kaugusel asuvale järgmisele lagendikule, kus asus Vargamäe Tammsaare muuseumiga. Ja siis jälle raba, nüüd Kodru nimeline, koos tagasihoidliku vaatetorniga. Mäletan 13 aastat tagasi toimunud klassiekskursioonilt, et laudtee oli siin nii kehv, et pärast bussiga Tartusse sõites olid jalanõud kõigil läbi vettinud ja jalad sellised nagu oleks mitu tundi vannis ligunenud. Nüüd oli tee igatahes korralik ja kiiresti olime Järva-Madisel. Tegelikult oligi terve päev kiire, sest mu matkakaaslane pidi järgmisel hommikul Tartus olema ja ainus viis sinna ühistranspordiga jõuda oli kell 17 Järva-Madises bussile minna, et siis Tapalt rongiga Tartusse sõita. Jõudis täpselt.
+Järgmine juba ammu asustatud kõrgem koht on Simisalu, kus käime muidugi tornis ja teeme lõunaeine. Natuke igav kruusane metsatee viib paari kilomeetri kaugusel asuvale järgmisele lagendikule, kus on Vargamäe Tammsaare muuseumiga. Ja siis jälle raba, nüüd Kodru nimeline, koos tagasihoidliku vaatetorniga. Mäletan 13 aastat tagasi toimunud klassiekskursioonilt, et laudtee oli siin nii kehv, et pärast bussiga Tartusse sõites olid jalanõud kõigil läbi vettinud ja jalad sellised nagu oleks mitu tundi vannis ligunenud. Nüüd on tee igatahes korralik ja oleme kiiresti Järva-Madisel. Tegelikult ongi terve päev kiire, sest mu matkakaaslane peab järgmisel hommikul Tartus olema ja ainus viis sinna ühistranspordiga jõuda on kell 17 Järva-Madises bussile minna, et siis Tapalt rongiga Tartusse sõita. Jõuab täpselt.
 
 ![](img/hikes/202006211541_DSCF2410.jpg)
 
-Seega jätkasin teed üksi. Nüüd põldude vahel kulgev tee aindis juba aimu sellest, mis ees ootab. Enne matka ei olnud nii täpselt kogu teekonda uurinud ja selline lage maantee oli seega natuke ootamatu. Aravetest läksin küll mööda, aga selle külje all olevas metsatukas oli märgistus selline, et seal küngastel radade labürindis õnnestus korralikult ära eksida. Kui muidu poleks sellest hullu, siis väsinuna on igasugused möödapanekud mõnikord päris ärritavad. Öö veetsin RMK Kurisoo lõkkekohas. Ilmselt tänu allpool kujutatud võsale, mis sinna jõudmiseks läbida tuli, ei olnud seal peale minu kedagi. Oli vaikne ja võrk hoidis ka sääsed eemal.
+Seega jätkan teed üksi. Nüüd põldude vahel kulgev tee annab juba aimu sellest, mis ees ootab. Enne matka ei olnud ma nii täpselt kogu teekonda uurinud ja selline lage maantee on seega natuke ootamatu. Aravetest lähen küll mööda, aga selle külje all olevas metsatukas on märgistus selline, et seal küngastel radade labürindis õnnestub täiesti vales suunas minna. Kui muidu poleks sellest hullu, siis väsinuna on igasugused möödapanekud mõnikord päris ärritavad. Ööseks jõuan Kurisoo lõkkekohta. Ilmselt tänu võsale, mis sinna jõudmiseks läbida tuleb, ei ole seal peale minu kedagi. On vaikne ja võrk hoiab ka sääsed eemal.
 
 ![](img/hikes/202006211942_DSCF2422.jpg)
 
 ## Kolmas päev, 22. juuni
 
-Magasin kaua. Hommikusöögiks oli tavapäraselt puder ja kohv ning siis pakkisin kokku ja asusin teele. Kõndimine oli juba valusam kui alguses. Ammused liigesehädad tunda ei andnud, aga liiga hakkas tegema hoopis jalalaba kõõlus. Põhjus oli ilmselt liiga kõrgelt kinni seotud tossupaeltes, mille eelmisel õhtul olin madalamatesse aukudesse tõstnud, aga seda liiga hilja. Kolmandal päeval enam seljakotti seljas tähele ei pannud, pigem oli imelik olla ilma selleta.
+Magan kaua. Hommikusöögiks on tavapäraselt puder ja kohv ning siis pakin kola kokku ja asun teele. Kõndimine on juba valusam kui alguses. Kui kunagi ammu hakkas pikemal liikumsel valu tegema põlv ja puus, siis nüüd teeb liiga hoopis jalalaba kõõlus. Põhjus on ilmselt liiga kõrgelt kinni seotud jalatsipaelad, mille eelmisel õhtul tõstsin küll madalamatesse aukudesse, aga seda liiga hilja. Kolmandal päeval enam seljakotti seljas väga tähele ei panegi, pigem on päeva lõpus imelik olla ilma selleta.
 
-Kuigi silmapiiril paistis mets, siis kulges peaaegu kogu tee lagedate põldude vahel. Õhk oli täiesti liikumatu ja taevas polnud mitte ainsatki pilve, kui välja arvata mööduvate sõidukite poolt tekitatud tolmupilved. 
+Kuigi silmapiiril paistab mets, siis kulgeb peaaegu kogu tee lagedate põldude vahel. Õhk on täiesti liikumatu ja taevas pole enamasti mitte ainsatki pilve, kui välja arvata mööduvate sõidukite poolt tekitatud tolmupilved. 
 
 ![](img/hikes/202006221005_DSCF2430.jpg)
 
-Erilist loodust seal kandis ei olnud, aga omapärane oli see Kesk-Eesti maastik siiski. Selles piirkonas on Eesti kõige viljakamad mullad ning seda oli igal pool märgata. Iga maatükk oli põlluks küntud ja tee ääres olid vaid pisikesed metsatukad. Neid nö nõukaaegseid lautasid ja muid valgeid põllmajandushooneid oli igal pool, nagu ka veel vanemaid maakividest hooneid. Üldiselt olid need kõik varemetes. Loodust oli siiski nii palju, et nägin seal jänest ja mingit kährikuga sarnast looma. 
+Erilist loodust ma seal kandis ei näe, aga omapärane on see Kesk-Eesti maastik siiski. Selles piirkonas on Eesti kõige viljakamad mullad ning seda on igal pool märgata. Iga maatükk on põlluks küntud ja tee ääres on vaid pisikesed metsatukad. Neid nõukaaegseid lautasid ja muid valgeid põllmajandushooneid on igal pool teede ääres, nagu ka veel vanemaid maakividest hooneid. Üldiselt olid need kõik varemetes. Loodust on siiski nii palju, et näen seal jänest ja mingit kährikuga sarnast looma. 
 
 ![](img/hikes/202006221036_DSCF2431.jpg)
 
-Samuti on see kant omapärane seetõttu, et siin ei ole peaaegu mitte ühtegi veekogu, ei ojasid, tiike, jõgedest ja järvedest rääkimata. Pärastlõunal teele jäänud pisike  Rava järv oli pikaks ajaks viimane koht, kust sain enne Järva-Jaani poodi vett. Teisel kaldal ujusid inimesed ja pärast vee pudelitesse filtreerimist nägin seal samas veepõhjas kellegi kasutatud plaastrit hulpimas. Ei teagi, kas kerge kõhuvalu vahetult pärast selle vee tarbimist oli kokkusattumus või ettekujutus.
+Samuti on see kant omapärane seetõttu, et siin ei jää matkateeele peaaegu mitte ühtegi veekogu, ei ojasid, tiike, jõgedest ja järvedest rääkimata. Pärastlõunal teele jäänud pisike Rava järv on pikaks ajaks viimane koht, kust saan enne Järva-Jaani poodi vett. Teisel kaldal ujuvad parajasti inimesed ja pärast vee pudelitesse filtreerimist näen seal samas veepõhjas kellegi kasutatud plaastrit hulpimas. Ei teagi, kas kerge kõhuvalu vahetult pärast selle vee tarbimist on kokkusattumus või ettekujutus.
 
 ![](img/hikes/202006221123_DSCF2433.jpg)
 
-Õnneks üksikud metsatukad teel siiski olid ja vähemalt kord tunni või viie kilomeetri jooksul oli võimalus natukeseks päikese eest varjuda. Et terve päeva päikese käes viibides mitte ära põleda, üritasin ennast võimalikult palju katta. Ilmselt olin pikkade pükste ja käistega palaval suvepäeval päris koomiline vaatepilt, aga mis teha. 
+Õnneks üksikud metsatukad teel siiski on ja vähemalt kord tunni või viie kilomeetri jooksul on võimalus natukeseks päikese eest varjuda. Et terve päeva päikese käes viibides mitte ära põleda, üritan ennast võimalikult palju katta. Ilmselt olen pikkade pükste ja käistega palaval suvepäeval päris koomiline vaatepilt, aga mis teha. 
 
 ![](img/hikes/202006221254_DSCF2440.jpg)
 
-Järva-Jaanisse jõudes võtsin küll jaki ära, et natuke viisakam välja näha. Mu täielikult rohiline ja kulutamist kannatav riietus avalikku kohta väga ei sobi. Hea meelega läheksin matkates kõikidest asulatest suure kaarega mööda, kuid kahjuks on see harva Eesti matkateedel võimalik. Kaalun tõsiselt edaspidi matkale mingite linnariiete kaasa võtmist. 
+Järva-Jaanisse jõudes otsin poest paar pudelit vett ja valan enda pudelitesse ümber. Selgub, et see ei ole üldse hea mõte. Palju higistades on mineraalvesi küll mõistlik valik, aga kahjuks on see peaaegu alati gaseeritud. Seetõttu avastan mõned kilomeetrid pärast Järva-Jaanit, et vesi on pudelitest gaasi survel välja tunginud ja jõudnud seljas olevate aluspüksteni. Kuna on väga kuiv ja palav, siis see eriti ei häiri. Häirib pigem see, et õhtuks on juba paar liitrit siin kandis nii kättesaamatut vett kadunud, suuremas osas küll juues.
 
-Otsin poest paar pudelit vett ja valasin enda pudelitesse ümber, mis ei olnud hea mõte. Palju higistades on mineraalvesi küll mõistlik valik, aga kahjuks on see peaaegu alati gaseeritud. Seetõttu avastasin mõned kilomeetrid pärast Järva-Jaanit, et vesi on pudelitest gaasi survel välja tunginud ja jõudnud seljas olevate aluspüksteni. Kuna oli väga kuiv ja palav, siis see eriti ei häirinud. Häiris pigem see, et õhtuks oli juba paar liitrit siin kandis nii kättesaamatut vett kadunud, suuremas osas küll juues.
-
-Kuna seljakotile riputatud sokid kuivasid päikese käes kiiresti, siis vahetasin sokke kohati isegi iga veerandtunni tagant. Hea kuiv tunne püsis aga ainult mõned minutid. Ei arvanud, et kõik need nn spordisokid, mida mul viis paari kaasas oli, võiksid puuvillast olla, aga just nii oligi. Seetõttu ei kannatanud jalatallad enam palju kõndida ja otsustatsin pärast vaid 22 km päevateekonda jääda RMK Tamme lõkkekohta. Seal oli uus laavu ja ilmselt seetõttu, et koht oli ümbritsetud lageda põlluga, ei olnud ka putukaid. Koht oli samas üsna eraldatud ja ka üks korraks sinna autoga sattunud välismaalane märkis, et pidi seda tükk aega otsima. Ei tea, kust ta pärit oli, aga vestlesime natuke inglise keeles ja sain aru, et ta koostab mingit ülevaadet sellistest peatuskohtadest Eestis. Pakkusin talle küll, et võib ka ööseks siia jääda, aga ta vist siiski ei tahtnud mind segada. 
+Kuna seljakotile riputatud sokid kuivavad päikese käes kiiresti, siis vahetan sokke kohati isegi iga veerandtunni tagant. Hea kuiv tunne püsib aga ainult mõned minutid. Ei arvanud, et kõik need nn spordisokid, mida mul viis paari kaasas on, võiksid puuvillast olla, aga just nii ongi. Seetõttu ei kannata jalatallad enam palju kõndida ja otsustan pärast vaid 22 km päevateekonda jääda Tamme lõkkekohta. Seal on uus laavu ja ilmselt seetõttu, et koht on ümbritsetud lageda põlluga, ei ole ka putukaid. Koht on samas üsna eraldatud ja ka üks korraks sinna autoga sattunud välismaalane märgib, et pidi seda lõkkekohta tükk aega otsima. Ei tea, kust ta pärit on, aga vestleme natuke inglise keeles ja saan aru, et ta koostab mingit ülevaadet sellistest peatuskohtadest Eestis. Pakkun talle küll, et võib ka ööseks siia jääda, aga ta vist siiski ei taha mind segada. 
 
 ![](img/hikes/202006221802_DSCF2456.jpg)
 
 ## Neljas päev, 23. juuni
 
-Sel ööl tundus naljakas, kuidas kiputakse mõtlema, et maal on vaikne ja rahulik. Oletan, et see oli mingi läheduses asuv talukoht, kus terve öö läbi lasti kaugele kostuvat tümakat. Vaibakloppimine kostus keskööst varahommikuni, kuigi polnud veel jaaniöö. Olin nii väsinud, et väga see mind ei seganud. Ärkasin kella viie ajal hoopis selle peale, et keegi üritas mu asju pihta panna. Ettevaatlikult tõustes nägin pagevat hiirt, kes mu toidukoti kallal krabistas. Viskasin üle laavu ääre talle siis paar näkileiva tükki, mille ta kostuvate helide järgi ka minema lohistas. 
+Sel ööl tundub naljakas, kuidas kiputakse mõtlema, et maal on vaikne ja rahulik. Kuna siin mingeid muid peatuskohti läheduses ei ole, siis oletan, et see on mingi läheduses asuv talukoht, kus terve öö läbi lastakse kaugele kostuvat tümakat. Vaibakloppimine kostub keskööst varahommikuni, kuigi pole veel jaaniöö. Olen nii väsinud, et väga see mind ei sega. Ärkan kella viie ajal hoopis selle peale, et keegi üritab mu asju pihta panna. Ettevaatlikult tõustes näen pagevat hiirt, kes mu toidukoti kallal krabistas. Viskan üle laavu ääre talle paar näkileiva tükki, mille ta vedi aja pärast kostuvate helide järgi ka minema lohistab.
 
-Matkatee jätkus nüüd juba põllu läbimisega ja hommikuse kaste tõttu märgusid jalanõud nüüd väljastpoolt. Edasi jätkus tee sama üksluiselt ja ebameeldivalt kui eelmisel päeval. Ikka see sama päike ja ei ühtegi pilve ega tuuleiili. Järjekordse puhkehetke ajal tee äärses võsas märkasin, et üks lind oleks justkui väga kuri mu peale. Istus kõrgel puu ladvas ja karjus. Alles tõustes sain aru miks. Sellel mu peatuskoha kõrval asuval väiksel kuusel olev siniste munadega pesa oli ilmselt just tema oma.
+Matkatee jätkub nüüd juba põllu läbimisega ja hommikuse kaste tõttu märguvad jalanõud nüüd väljastpoolt. Edasi jätkub tee sama üksluiselt ja ebameeldivalt kui eelmisel päeval. Ikka see sama päike ja ei ühtegi pilve ega tuuleiili. Järjekordse puhkehetke ajal tee äärses võsas märkan, et üks lind oleks justkui väga kuri mu peale. Istub kõrgel puu ladvas ja karjub. Alles minekule tõustes saan aru miks. Sellel mu peatuskoha kõrval asuval väiksel kuusel olev siniste munadega pesa on ilmselt just tema oma.
 
 ![](img/hikes/202006231111_DSCF2471.jpg)
 
-Enne Koerut läks tee läbi metsatuka ja tee ääres asusid elumajad. Natuke piinlik oli sealt niimoodi justkui kellegi hoovist läbi minna, aga vee imelikum oli siis, kui jõudsin mingite puidutööstushoonete lähedale. Tee oleks pidanud kulgema diagonaalis läbi metsa, aga selle asemel oli nüüd läbimatu raiesmik. 
+Enne Koerut läheb tee läbi metsatuka ja tee ääres asuvad elumajad. Isegi natuke piinlik on sealt niimoodi peaaegu kellegi hoovist läbi minna, aga veel imelikum on siis, kui jõuan mingite puidutööstushoonete lähedale. Tee peaks kaardi järgi kulgema diagonaalis läbi metsa, aga selle asemel on nüüd läbimatu raiesmik.
 
 ![](img/hikes/202006231200_DSCF2474.jpg)
 
-Ikka mitu  korda käisin edasi-tagasi ja nuputasin, kuhu nüüd minna tuleks, kuni nägin kaugemal puu küljes rajamärgistust. Kohe kuidagi ei suutnud uskuda, et pean minema nüüd läbi selle tööstusala, kus käib tihe sagimine. Alles sinna jõudes selgus, et rada läheb nüüd hoopis mööda selle ala serva. Loomulikult tekkisid pahasena korraks need mõtted, et kas on vaja ikka kogu Eesti mets küttepuudeks teha, kuigi ilmselt läksid need puud sinna samasse saekaatrisse.
+Ikka mitu korda käin edasi-tagasi ja nuputan, kuhu nüüd minna tuleks, kuni näen kaugemal puu küljes rajamärgistust. Kohe kuidagi ei suuda uskuda, et pean minema nüüd läbi selle tööstusala, kus käib tihe sagimine. Alles sinna jõudes selgub, et rada läheb nüüd hoopis mööda selle ala serva.
 
 ![](img/hikes/202006231206_DSCF2475.jpg)
 
-Üsna pea pärast seda seika jõudsin Koeru kalmistule, kus lootsin leida veevarude täiendamiseks kaevu. Kaev ei töötanud, aga seal kõrval oli õnneks suur selline teraspuuris kuupmeetrine veemahuti. Täitsin pudelid ja igaks juhuks lisasin ka klooritableti, kuna päris joomiseks see vesi seal ei olnud. Vesi maitses nagu ujula basseinis. 
+Üsna pea pärast seda seika jõuan Koeru kalmistule, kus loodan leida veevarude täiendamiseks kaevu. Kaev ei tööta, aga seal kõrval on õnneks suur selline teraspuuris kuupmeetrine veemahuti. Täidan pudelid ja igaks juhuks lisan ka klooritableti, kuna päris joomiseks see vesi seal ei ole. Maitseb nagu ujula basseinist jooks.
 
-Koerust jalutasin peatumata läbi. Ega see nüüdseks juba jutumärkidesse sobiv matkatee pärast Koerut paremaks ei läinud, pigem vastupidi. Teeäärsed sõnnikuaunad niigi lämbet õhku just värskemaks ei teinud. Varje polnud enam kusagil ja kruusatee asemel oli nüüd pigitatud asfalt. Pigi sulas ja tallad jäid tee külge kinni, nii et otsustasin kõndida tee ääres. Puuvill oli tallad juba päris tundlikuks hõõrunud. See matk tuletas juba vägisi meelde kunagi ajateenistuses läbitud rännakuid, mis muutsid mitmeks päevaks igasuguse jalgadel liikumise raskeks. Peas polnud enam ühtegi mõtet, täiesti tuimalt viisin ühte jalga teise ette. 
+Koerust jalutan peatumata läbi. Ega see nüüdseks juba jutumärkidesse sobiv matkatee pärast Koerut paremaks ei lähe, pigem vastupidi. Teeäärsed sõnnikuaunad niigi lämbet õhku just värskemaks ei tee. Varje pole enam kusagil ja kruusatee asemel on nüüd pigitatud asfalt. Pigi sulab ja tallad jäävad tee külge kinni, nii et otsustan kõndida tee ääres. Puuvill on tallad juba päris tundlikuks hõõrunud. See matk tuletab juba vägisi meelde kunagi ajateenistuses läbitud rännakuid, mis muutsid mitmeks päevaks igasuguse jalgadel liikumise raskeks. Peas pole enam ühtegi mõtet, täiesti tuimalt viin ühte jalga teise ette. 
 
 ![](img/hikes/202006231414_DSCF2479.jpg)
 
-Ja siis jõudsin Norra mõisa. Polnud sellest kohast midagi kuulnud ja kuidagi kohatutena tundusid need justkui äsja ja osaliselt renoveeritud, ent kõrge rohuga ümbritsetud mõisahooned. Kunagi mõisa tekkimine suure vooluga allika äärde oli samas igati loogiline. Paraku oli poolteist kümnendit varem alustatud renoveerimine pooleli jäetud. Ja tehtud tööde käiguski hoonete algupärased detailid hävitatud. 
+Ja siis jõuan Norra mõisa. Pole sellest kohast midagi kuulnud ja kuidagi kohatutena tunduvad need justkui äsja ja osaliselt renoveeritud, ent kõrge rohuga ümbritsetud mõisahooned. Kunagi mõisa tekkimine suure vooluga allika äärde on samas igati loogiline. Paraku on poolteist kümnendit varem alustatud renoveerimine pooleli jäetud. Ja tehtud tööde käiguski hoonete algupärased detailid hävitatud. 
 
-Pärast viimast paari päeva tekitas jalgade jääkülma allikavette kastmine lausa jumaliku tunde. Pikutasin ikka päris mitu tundi seal puude all oja ääres. 
+Pärast paari päeva jalgade hautamist on jalgade jääkülma allikavette kastmine päris hea. Pikutan ikka üsna mitu tundi seal puude all oja ääres. 
 
 ![](img/hikes/202006231523_DSCF2487.jpg)
 
-Kontrast kahe keskkonna vahel ei oleks saanud enam kuigi palju suurem olla. Ühel pool metsapiiri oli lõputu põld ilma ühegi puuta, tilgagi veeta ning väljakannatamatult lämbe ja liikumatu õhuga. Teisel pool oli aga varju pakkuv allikaid täis mets ning otse maa seest voolas välja jääkülm ning täiesti puhas ja selge vesi. Omamoodi püha kohana hakkas see Norra mõis ja kogu sealne mets tunduma. 
+Kontrast kahe keskkonna vahel saakski enam kuigi palju suurem olla. Ühel pool metsapiiri on lõputu põld ilma ühegi puuta, tilgagi veeta ning väljakannatamatult lämbe ja liikumatu õhuga. Teisel pool on aga varju pakkuv allikaid täis mets, kus otse maa seest voolab välja jääkülm ning täiesti puhas ja selge vesi. Omamoodi püha kohana hakkab see Norra mõis ja kogu sealne mets tunduma. 
 
 ![](img/hikes/202006231822_DSCF2498.jpg)
 
-Aga teekond ei olnud veel selleks päevaks läbi. Olin looduskaitsealal ja sellest välja jõudmiseks tuli veel kümmekond kilomeetrit edasi kõndida. Kuna ees oli jaaniöö, siis ma ei lootnudki, et seal asuvates lõkkekohtades ööbida saaksin. Metsatee asendus vahepeal jälle põldudega, aga päike oli juba madalal ning õhtune valgus ja maastik mõjusid pigem rahustavalt. Vähemalt olid veepudelid nüüd allikavett täis. Ööbimiskohta jäin pärast Põltsamaa jõe ületamist. Otsisin lihtsalt teest kaugemal ühe koha ja seadsin aseme putukavõrgu alla.
+Aga teekond ei ole veel selleks päevaks läbi. Olen looduskaitsealal ja sellest välja jõudmiseks tuleb veel kümmekond kilomeetrit matkateel edasi minna. Kuna ees on jaaniöö, siis ma ei loodagi, et siinsetes lõkkekohtades ööbida saaksin. Metsatee asendub vahepeal jälle põldudega, aga päike on juba madalal ning õhtune valgus ja maastik mõjuvad pigem rahustavalt. Vähemalt on veepudelid nüüd allikavett täis. Ööbimiskohta jään pärast Põltsamaa jõe ületamist. Otsin lihtsalt teest kaugemal ühe koha ja sean aseme putukavõrgu alla.
 
 ![](img/hikes/202006232104_DSCF2514.jpg)
 
-Soojendasin õhtusöögi ja arvasin, et sääsevõrgu all on hea turvaline. Eksisin. Mingisugused eriti pisikesed kärbselaadsed putukad (oletan et kihulased) ronisid läbi võrgu. Alguses õnnestus nad endalt ära ajada ja ei teinudki neist eriti välja, aga ühel hetkel hakkas pea kohutavalt sügelema. Tegelased olid mulle ilmselt juustesse pugenud ja närisid nüüd mind sealt. Sääsetõrje pihustamisest polnud eriti abi. Kuigi magamiskotis oli vastikult palav, ei jäänudki mul nüüd muud üle kui sinna pugeda ja kõik avad sulgeda. Suures hoos unustasin, et kaasas oli ka tihedam üle pea käiv võrk ja sama asi oli olemas ka magamiskotil. Aga niimoodi higistades ja pead sügades tuli lõpuks ikkagi uni ka.
+Soojendan õhtusöögi ja arvan, et sääsevõrgu all on hea turvaline. Eksin. Mingisugused eriti pisikesed kärbselaadsed putukad (oletan et kihulased) ronivad ikkagi läbi võrgu. Alguses õnnestub nad endalt ära ajada ja ei teegi neist eriti välja, aga ühel hetkel hakkab pea kohutavalt sügelema. Tegelased on mulle ilmselt juustesse pugenud ja närivad nüüd mind sealt. Sääsetõrje pihustamisest pole eriti abi. Kuigi magamiskotis on vastikult palav, ei jäägi mul nüüd muud üle kui sinna pugeda ja kõik avad sulgeda. Suures hoos unustan, et kaasas on ka tihedam üle pea käiv võrk ja sama asi on olemas ka magamiskotil. Aga niimoodi higistades ja pead sügades tuleb lõpuks ikkagi uni ka.
 
 ## Viies ja viimane päev, 24. juuni
 
-Matkatee jätkus siit jälle põldude vahel kulgeva kruusateega. Endiselt ei olnud taevas ühtegi pilve. Sellele teele jääva koha nimi on vist Tapiku ja nii palju kui matkateed mööda liikudes nägin, tundus olevat päris trööstitu kant. Teeäärsed hooned olid peaaegu kõik varemetes ja suure lagendiku keskel oli üks eriti suur ja kole nn nõukaaegne lagunev laut koos abihoonetega.
+Matkatee jätkub siit jälle põldude vahel kulgeva kruusateega. Endiselt ei ole taevas ühtegi pilve. Sellele teele jääva koha nimi on vist Tapiku ja nii palju kui matkateed mööda liikudes näen, tundub olevat päris trööstitu kant. Teeäärsed hooned on peaaegu kõik varemetes või maha jäetud ja suure lagendiku keskel on üks eriti suur ja kole nõukaaegne lagunev laut koos abihoonetega.
 
 ![](img/hikes/202006240954_DSCF2531.jpg)
 
-Õige pea jõudsin jällegi metsateele. Kuna päike oli kõrgel, siis kahjuks oodatud varju päikese eest see mets ei pakkunud. See-eest olid tee ääres selge voolava veega kraavid, nii et janu ei pidanud enam kannatama. Mõistagi käis kogu loodusest pärit joogivesi ikkagi läbi veepuhasti. Metsatee ise oli väga igav: kilomeetrite pikkused metsasihid, vahelduseks vaid täisnurksed pöörded. 
+Õige pea jõuan jällegi metsateele. Kuna päike on kõrgel, siis kahjuks oodatud varju päikese eest see mets ei paku. See-eest on tee ääres selge voolava veega kraavid, nii et janu ei pea enam kannatama. Mõistagi käib kogu loodusest pärit joogivesi ikkagi läbi veepuhasti. Metsatee ise on väga igav: kilomeetrite pikkused metsasihid, vahelduseks vaid täisnurksed pöörded. 
 
 ![](img/hikes/202006241027_DSCF2533.jpg)
 
-Kui muidu kõndides kuulan raadiosaateid, siis otsustasin ühel hetkel kuulata muusikat. Vist neelasin ka selle ühe kaasas olnud energiageeli. Üsna järsku asendus tülpimus täieliku eufooriaga. Ikka mitukümmend minutit astusin muusika taktis ja meeleolu oli ülev, järgemööda läks see tunne muidugi üle. Veider, kuidas kurnatus mõjuda võib. 
+Kuna lõpp on lähedal, siis otsustan ära tarbida ühe kaasas oleva energiageeli. Üsna järsku asendub tülpimus täieliku eufooriaga. Ikka mitukümmend minutit astun peaaegu et kõrvaklappidest kostuva muusika taktis ja meeleolu on ülev. Järgemööda läheb see tunne muidugi üle. Veider, kuidas kurnatus mõjuda võib. 
 
-Pärast metsasihte istusin natukeseks maha RMK Siimusti lõkkekohas. Kuigi lõpp juba paistis, siis Jõgeva raudteejaamani tuli veel päris mitu kilomeetrit astuda ja see lõpp tundus väga pikk. Kõigepealt tuli ületada veel mitu kilomeetrit jalgteed põllul ning seejärel välimuse järgi aastakümneid lagunenud Jõgeva kõnniteed, mis tegid lõpu eriti ebameeldivaks. Aga see siiski tuli.
+Pärast metsasihte istun natukeseks maha Siimusti lõkkekohas. Kuigi lõpp juba paistab, siis Jõgeva raudteejaamani tuleb veel päris mitu kilomeetrit astuda ja see lõpp tundub väga pikk. Kõigepealt tuleb ületada veel mitu kilomeetrit jalgteed lagedal üle lageda põllu ning seejärel välimuse järgi aastakümneid lagunenud Jõgeva kõnniteed, mis teevad lõpu eriti ebameeldivaks. Aga see siiski tuleb.
 
 ![](img/hikes/202006241728_DSCF2547.jpg)
 
 ## Lõpetuseks
 
-Selle matkatee lõigu lõppedes oli kehakaal mitu kilogrammi madalam kui alustades. Jalalabad olid minu jaoks esimest korda väga veidralt ümaraks paisunud, nii et enamik jalanõusid ei mahtunud enam jalga. Võib-olla juhtus see liiga pingul tossupaelte, võib-olla lihtsalt pikalt püsti olemise tõttu. Nädala pärast oli siiski kõik jälle endine. 
-
-Tuleb tunnistada, et ootamatult kuumaks pööranud ilma ning enamasti üksluise ja kohati veevaese maastikku tõttu ei jää see käik meelde toreda üritusena. See ilm ja maastik ei sobinud kuidagi omavahel kokku. Suuremal osal teest ei saanud ma ise ka aru, miks kümneid kilomeetreid mööda igavat maanteed jalutan. Tagantjärele selle tee ette võtmist ma ei kahetse, sest nüüd on see matkatee loodetavasti kõige igavam lõik läbitud. Igatahes oskan nüüd rohkem hinnata seda aega, kui on külm, märg ja pime.
+See lämbe ilm ja suures osas lage maastik ei sobinud kuidagi omavahel kokku. Suuremal osal teest ei saanud ma ise ka aru, miks kümneid kilomeetreid mööda igavat maanteed jalutan. Nüüd on aga see matkatee loodetavasti kõige igavam lõik läbitud. Igatahes oskan nüüd rohkem hinnata seda aega, kui on külm, märg ja pime.
 
 {% include elements/button.html link="https://photos.app.goo.gl/rrEpof1L4haVED757" text="Ülejäänud teel tehtud jäädvustusi näed selle nupu alt" block=true %}
