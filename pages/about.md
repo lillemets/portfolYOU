@@ -13,6 +13,7 @@ I'm not sure what to tell here, so below are some random facts.
 - I type using [Colemak](https://colemak.com/) layout on a 61-key keyboard with blank keycaps.
 - I sort all my waste into 7 different bins.
 - I don't believe in anything supernatural but I do believe in coincidence.
+- I like the Stoic way of thinking.
 - I use [Arch](https://www.archlinux.org/) btw. 
 
 ## What do I do?
@@ -27,6 +28,7 @@ Here is another list of some of the things that I do or have done in my spare ti
 - Unix desktop customization ([what?](https://www.reddit.com/r/unixporn))
 - Assemblying personal computers
 - Fountain pens and calligraphy
+- Enjoying movies from 80's and 90's
 - Playing guitar and ukulele
 - Learning about the past
 - Collecting old coins

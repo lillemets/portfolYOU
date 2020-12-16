@@ -3,14 +3,17 @@ title: "Kavastust Põlvasse"
 description: "Alustasin Peraküla-Ähijärve matkatee läbimist kevadise jalutuskäiguga."
 tags: [Peraküla-Ähijärve matkatee]
 category: hikes
+days: [2020-03-27,2020-03-29]
 image: /img/hikes/202003271752_DSCF2024.jpg
+photos: https://photos.app.goo.gl/SFVc6hKtdmyZ7S7e7
+equipment: Fujifilm X-E1 + Kamlan 21mm f1.8
 ---
 
 Otsustan hakata läbima Peraküla-Ähijärve matkateed. Mitte korraga, vaid ilma igasuguse ajapiiranguta ja sobivate lõikude kaupa. Vastavalt sellele, mitu vaba päeva parasjagu sisustada on ja milline koht huvitavana tundub. Eesmärgiks on läbida iga matkatee kilomeeter ning sealjuures muidugi ümbrust nautida ja kaameraga jäädvustada. 
 
 Kuna olen lugenud, et selle jõe ületamisega Kavastul on kord nii ja kord naa, siis alustan teed ületuskoha lõunakaldal, et siis millalgi järgmistest kordadest teisel pool lõpetada. Mõlemad punktid asuvad logistika mõttes mugavalt Tartu lähedal ka. Lõpetada kavatsen sel korral Põlva raudteejaamas, et sealt rongiga tagasi Tartusse sõita.
 
-<a href="img/hikes/kavastu-polva.jpg" target="_blank"><img src="img/hikes/kavastu-polva.jpg"/></a>
+{% include elements/map.html path="img/hikes/kavastu-polva.jpg" %}
 
 Väljas on päkeseline varakevadine päev, õhutemperatuur kergelt plusspoolel. Lund äsja möödunud talvel peaaegu maas ei olnudki ja nii ei ole ka nüüd lumest mingit märki, küll aga on madalamates kohtades tee mudane. Alguses kulgeb tee mööda asfaldit. Tee ääres on mõned maha jäetud hooned ja muidugi see liiklusmärk, mis hoiatab kepiga küürus inimeste eest. Kedagi ma vanadekodu lähedal siiski ei näe. Enne pika lõunasse kulgevat sirget on ka elamud. Seal tuleb vastu üks kohalik külamees ja uurib, ega mul midagi vaja ei ole. Ilmselgelt juba teab, mida ma siin teen, kuna suvel olevat ta juba aidanud üht janus vaevelnud matkalist, kellele ta tol korral traktoriga vett toomas käis. 
 
@@ -83,5 +86,3 @@ Koht ja vaated on ilusad, kahjuks hakkab aga kaamera aku tühjenema ja palju fot
 Võtan hoo maha alles pärast Otteni silda olevat metsateed, kui jõuan elektriliinide alla metsaservale. Avastan, et rongi väljumiseni Põlvast  on hoopis nii palju aega, et pean seda kuidagi parajaks tegema. Kuna parajasti paistab päike, siis istun maha kõrgemal kohal päris lagendiku ääres oleva puu najale. Ühel hetkel ilmuvad kolm naisterahvast, vist laps, ema ja vanaema, ning hakkavad kümmekond meetrit otse minu ees võsast urbasid korjama. Toimetavad nad seal ikka päris mitu minutit, kuni järsku ühe naisterahva pilk jääb minul seisma. Tundub, et ta kohkub, pöörab seejärel ümber ja hakkab lapsega eemalduma. Oleksin järginud oma tavapärast rutiini ja natuke sügavamale puude vahele maha istunud nagu alguses kavatsesin, oleksingi ilmselt märkamatuks jäänud. Ma üldse ei soovi kedagi hirmutada, aga eelistan maastikul kanda sellega sobituvat ja mitte visuaalselt karjuvat riietust. Ei jaga eriti seda seisukohta, et erksavärviline riietus mind Eesti tingimustes mingisuguse õnnetuse korral päästab.
 
 Enne Põlvat viib matkatee läbi Himmaste küla. See jääb meelde sellise omapärase madala kohana, kus ühel pool teed on luht ja teisel pool hoovid. Põlva raudteejaama jõuan umbes tund aega liiga vara. On vist miinuskraadid ja päris kõva tuul. Kuna raudteejaama ümbrus on üsna lage ja seal pole mingit kohta tuule eest varjumiseks, siis istun seal kõrval olevas bussipeatuses ja vaatan filmi. Kaks korda jääb buss seisma, juht viipab mind peale ja mina raputan pead, kuni ta lõpuks käega lööb. Rongis ootan tükk aega, et mulle piletiostuvõimalust pakutaks, aga ühtegi teenindajat ei ole kusagil. Ahjaa, viirusepaanika.
-
-{% include elements/button.html link="https://photos.app.goo.gl/SFVc6hKtdmyZ7S7e7" text="Ülejäänud teel tehtud jäädvustusi näeb siit" block=true %}

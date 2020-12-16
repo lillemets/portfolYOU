@@ -3,14 +3,17 @@ title: "Põlvast Rõssale"
 description: "Veetsin kolm vihmast sügispäeva kõndides mööda sügisvärvides matkateed Põlvast lõunasse."
 tags: [Peraküla-Ähijärve matkatee]
 category: hikes
+days: [2020-10-10,2020-10-12]
 image: /img/hikes/202010111626_095.jpg
+photos: https://photos.app.goo.gl/t8i6hyzEBCVXr8Zz8
+equipment: Fujifilm X-E1 + Fujinon 27mm f2.8
 ---
 
 Jätkan matkateed täpselt sealt, kus umbes pool aastat tagasi ühe eelneva lõigu lõpetasin: Põlva raudteejaamast. Nüüd kavatsen jälle tagasi Tartusse sõita rongiga ja selleks teekonna lõpetada järgmises matkateele jäävas rongipeatuses, mis kannab küll Orava nime, aga asub Rõssa-nimelises külas. Kahe rongipeatuse vahele jääb umbes 60 km matkateed. 
 
-Kogu teekond saab täpselt positsioneeritud ja salvestatud. Alloleval kaardil tähistab läbitud teed sinine joon, puhkekohti sellel valged täpid. Oranži värvi joon täistab ametlikku matkateed.
+Kogu teekond saab täpselt positsioneeritud ja salvestatud.
 
-<a href="img/hikes/polva-rossa.jpg" target="_blank"><img src="img/hikes/polva-rossa.jpg"/></a>
+{% include elements/map.html path="img/hikes/polva-rossa.jpg" %}
 
 Põlvas astun rongilt maha ennelõunal ja hakkan astuma matkatee poole, kuna raudteejaam asub sellest poolteist kilomeetrit eemal. Matkatee viib siiski linnast läbi ja olen üllatunud, kui hajali kogu see linn on. Elanike arvult on linn väike, aga pindalalt mitte nii väga. Kuigi ametlikult need pigem talukohti meenutavad majad vist linnas ei asu. Kõnnin ikka mitu kilomeetrit mööda suurte õuedega elamutest, enne kui linna keskele jõuan. Asustus on linnas pigem  hõre ja palju on puid ja muidu rohelust, mida praegu küll õigem kollasuseks nimetada on. 
 
@@ -77,5 +80,3 @@ Edasi on tee päris mitmekesine: kord põld, siis metsatukk ja nii vaheldumisi. 
 ![](img/hikes/202010121431_165.jpg)
 
 Kuna mööda tiheda liiklusega maanteid mulle jalutada ei meeldi, siis käin mööda kõrgemat teeperve, kus oleks nagu rada, mis ühel hetkel sohu kulgeb, nii et saan enne lõppu jalad uuesti märjaks teha. Rongi ei pea kaua ootama.
-
-{% include elements/button.html link="https://photos.app.goo.gl/t8i6hyzEBCVXr8Zz8" text="Ülejäänud teel tehtud jäädvustusi saab näha siit" block=true %}

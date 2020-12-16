@@ -3,15 +3,18 @@ title: "Pähklisaare maastikukaitsealal"
 description: "Jalutasin natuke jahedal talvisel päikesepaistelisel päeval Tartumaal Laukasoo ümbruses."
 date: 2020-12-08
 tags: [Päevamatk]
+day: 2020-12-08
 category: hikes
 image: /img/hikes/20201208113715.jpg
+photos: https://photos.app.goo.gl/8zcaKTSreFVZNujP9
+equipment: Fujifilm X-E1 + Samyang 12mm f2
 ---
 
 Ega mul mingit põhjust just Pähklisaare maastikukaitsealakülastada ei olnud. Otsisin sellist kohta, kus saaks mõned tunnid niimoodi jalutada, et kellegi põllule või õuele ei satuks, ja natuke puutumata loodust lootsin ka leida. Tartu ümbruses selliseid kohti tegelikult ei olegi ja lähim koht tundus olevat see sama Laukasoo kant.
 
 Pähklisaare ümbruse piirkonna on päästnud üles harimisest liigniiske maastik, kuigi töö raba hävitamiseks käib seal kõrval suure hooga ja umbes kolmandik piirkonna rabast on juba üles freesitud. Majandustegevusest puutumata raba osa kaitseb juba paarkümmend aastat Pähklisaare maastikukaitseala. Pähklisaar on tegelikult üsna väike ja raba keskel asub hoopis suurem Rehtessaar ja sellest idas on Laukasoo.
 
-<a href="img/hikes/pahklisaare.jpg" target="_blank"><img src="img/hikes/pahklisaare.jpg"/></a>
+{% include elements/map.html path="img/hikes/pahklisaare.jpg" %}
 
 Jõuan lõuna poolt Rehtessaarele viiva tee otsa hommikul pärast üheksat. Teel päästab järsk pidurdamine kokkupõrkest, kui kolm kitse otsustavad just minuga samal ajal ja samas kohas korraks seda teed kasutada. Vähemalt on siin loomi. Juba päris saareni viiva tee alguses on sinna tõkkeks asetatud neli rehvi. Jään viisakaks ja jätan auto nende äärde, ruumi napilt parkimiseks. Kuna nõrga mootoriga auto sureb seal võsas parkimisel korduvalt välja, siis jääb kripeldama, kas aku ka päeva lõpus veel küünlale piisavalt särtsu annab. On varem juhutnud, et mitte.
 
@@ -64,5 +67,3 @@ Kavatsen algusesse minna mööda kraavi, aga lagedamale rabaservale jõudes mär
 Prügitee viib jalutuskäigu alguskoha suunas ja kui olen prahti korjates jõudnud juba nii kaugele, et tegevuse alustamise koht enam ei paista, kuulen ühtäkki just sealtpoolt meeshäält karjatamas: "Aaghhh! [???] tagasi [???]!... Aaghhh!". Karjutud sõnumist aru ei saa ja oletan, et see on suunatud koerale, kuigi jääb kahtlus, et hüüdja tahtis oma rämpsu puude külge tagasi saada.
 
 Natuke hiljem prügi enam vaatväljas ei ole ja liigun tagasi algusesse. Siin lõuna pool on osaliselt kuivendatud rabapinnas piisavalt kõva, et sisse ei vajuks. Õnneks auto käivitub ja sõidan tagasi Tartu poole, loojuv päike otse silma paistmas. Kuue tunni jooksul jalutasin 10 km.
-
-{% include elements/button.html link="https://photos.app.goo.gl/8zcaKTSreFVZNujP9" text="Ülejäänud selle päeva jäädvustusi saab näha siit" block=true %}

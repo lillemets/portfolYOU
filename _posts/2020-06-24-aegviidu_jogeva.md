@@ -3,14 +3,17 @@ title: "Aegviidust Jõgevale"
 description: "Jalutasin 150 km mööda matkateed, läbides Kõrvemaa rabad, Kesk-Eesti põllumaad ja Endla looduskaitseala metsad."
 tags: [Peraküla-Ähijärve matkatee]
 category: hikes
+days: [2020-06-20,2020-06-24]
 image: /img/hikes/202006231414_DSCF2479.jpg
+photos: https://photos.app.goo.gl/rrEpof1L4haVED757
+equipment: Fujifilm X-E1 + Kamlan 21mm f1.8
 ---
 
 Otsustan läbida järjekordse lõigu Peraküla-Ähijärve matkateel. Sel korral kulgeb tee Aegviidust Jõgevale, ühest rongipeatusest teiseni. Tee pikkuseks on kaardi järgi 150 km, mõni kilomeeter siia-sinna. Tundub, et suvi on selle lõigu korraga läbimiseks sobiv aeg, sest saab hakkama kergema soojustusega ja kuivem peaks olema ka kui muul ajal.
 
-Teekonda ma sel korral ei salvesta, aga jään ametliku raja piiresse. All oleval kaardil kujutatud ametlik rada näitab seega üsna täpselt läbitud teekonda. Matka algus ja lõpp on tähistatud kaardil punktidega.
+Teekonda ma sel korral ei salvesta, aga jään ametliku raja piiresse.
 
-<a href="img/hikes/aegviidu-jogeva.jpg" target="_blank"><img src="img/hikes/aegviidu-jogeva.jpg"/></a>
+{% include elements/map.html path="img/hikes/aegviidu-jogeva.jpg" %}
 
 Enda arvates pakin kaasa ainult vajaliku. Kotti kaalule tõstes selgub aga, et seljas tuleb tassida 21 kg kotti, mis on minu arvates umbes kolmandiku võrra raskem kui suvise matka puhul olla võiks. Lisaks veel õlakott, milles kannan kaamerat, telefoni, veepuhastit ja muud, mida tahan vajadusel mugavalt ilma seljakotti sikutamata kätte saada. Olen valmistunud vihmaks ja külmaks. Kuna hiljem selgub, et valmist tulnuks olla hoopis vastupidiseks, siis üsna mitu suurt ja rasket asja osutuvad tarbetuks.
 
@@ -102,7 +105,7 @@ Ikka mitu korda käin edasi-tagasi ja nuputan, kuhu nüüd minna tuleks, kuni n�
 
 Üsna pea pärast seda seika jõuan Koeru kalmistule, kus loodan leida veevarude täiendamiseks kaevu. Kaev ei tööta, aga seal kõrval on õnneks suur selline teraspuuris kuupmeetrine veemahuti. Täidan pudelid ja igaks juhuks lisan ka klooritableti, kuna päris joomiseks see vesi seal ei ole. Maitseb nagu ujula basseinist jooks.
 
-Koerust jalutan peatumata läbi. Ega see nüüdseks juba jutumärkidesse sobiv matkatee pärast Koerut paremaks ei lähe, pigem vastupidi. Teeäärsed sõnnikuaunad niigi lämbet õhku just värskemaks ei tee. Varje pole enam kusagil ja kruusatee asemel on nüüd pigitatud asfalt. Pigi sulab ja tallad jäävad tee külge kinni, nii et otsustan kõndida tee ääres. Puuvill on tallad juba päris tundlikuks hõõrunud. See matk tuletab juba vägisi meelde kunagi ajateenistuses läbitud rännakuid, mis muutsid mitmeks päevaks igasuguse jalgadel liikumise raskeks. Peas pole enam ühtegi mõtet, täiesti tuimalt viin ühte jalga teise ette. 
+Koerust jalutan peatumata läbi. Ega see nüüdseks juba jutumärkidesse sobiv matkatee pärast Koerut paremaks ei lähe, pigem vastupidi. Teeäärsed sõnnikuaunad niigi lämbet õhku just värskemaks ei tee. Varje pole enam kusagil ja kruusatee asemel on nüüd pigitatud asfalt. Pigi sulab ja tallad jäävad tee külge kinni, nii et otsustan kõndida tee ääres. Puuvill on tallad juba päris tundlikuks hõõrunud. See matk tuletab juba vägisi meelde kunagi ajateenistuses läbitud rännakuid, mis muutsid mitmeks päevaks igasuguse jalgadel liikumise raskeks. Peas pole enam ühtegi mõtet, täiesti tuimalt viin ühte jalga teise ette. Üks rühmaülem ütleks selle kohta, et "iseloom kasvab".
 
 ![](img/hikes/202006231414_DSCF2479.jpg)
 
@@ -141,5 +144,3 @@ Pärast metsasihte istun natukeseks maha Siimusti lõkkekohas. Kuigi lõpp juba 
 ## Lõpetuseks
 
 See lämbe ilm ja suures osas lage maastik ei sobinud kuidagi omavahel kokku. Suuremal osal teest ei saanud ma ise ka aru, miks kümneid kilomeetreid mööda igavat maanteed jalutan. Nüüd on aga see matkatee loodetavasti kõige igavam lõik läbitud. Igatahes oskan nüüd rohkem hinnata seda aega, kui on külm, märg ja pime.
-
-{% include elements/button.html link="https://photos.app.goo.gl/rrEpof1L4haVED757" text="Ülejäänud teel tehtud jäädvustusi näed selle nupu alt" block=true %}
